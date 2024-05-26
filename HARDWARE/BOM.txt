@@ -1,0 +1,14 @@
+-	Sensor DHT11
+ 
+-	LED RGB
+•	3 resistencias de 220Ω
+ 
+-	Pulsador
+•	1 resistencia de 10kΩ
+ 
+-	Sensor de presencia PIR
+ 
+-	Pantalla LCD
+ 
+-	Sensor de luminosidad LDR
+•	1 resistencia de 10kΩ
